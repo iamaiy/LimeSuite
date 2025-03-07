@@ -2,6 +2,7 @@
 #include "IConnection.h"
 #include "LMS64CProtocol.h"
 #include <ciso646>
+#include <chrono>
 #include <vector>
 #include <map>
 #include <math.h>
